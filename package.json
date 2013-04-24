@@ -1,0 +1,21 @@
+{
+  "name": "backbone-set-event",
+  "version": "0.0.0",
+  "description": "Triggers an event on backbone collections when Collection.set() is called",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": "",
+  "keywords": [
+    "backbone",
+    "collection",
+    "event",
+    "set"
+  ],
+  "author": "andy perlitch",
+  "license": "BSD",
+  "dependencies": {
+    "backbone": "~1.0"
+  }
+}
